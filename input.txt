@@ -1,0 +1,3 @@
+'; DROP TABLE important; SELECT * FROM 'users' where '1' = '1
+
+' or '1' = '1
