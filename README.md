@@ -7,7 +7,7 @@
  
 # Note: If anyone is using this project then change the name of database according to your database name
 
-                  like :- $mysqli = new mysqli('localhost', 'root', '', 'joker');
+                          $mysqli = new mysqli('localhost', 'root', '', 'joker');
                   
 #  Here my database name is joker you can change this database as per your database name.
 #  Creating the database like that: 
